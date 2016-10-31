@@ -3,7 +3,9 @@ Generic script to build, deploy and manage python lambda functions in C.D enviro
 
 ##Requirements
 * Python 2.7 +
-* Virtualenv
+* Python 3rd Party Libs: 
+  * Virtualenv
+  * Boto3
 * Bash
 * Functioning AWS config i.e exported AWS_ACCESS_KEY_ID or setup with aws cli.
 
