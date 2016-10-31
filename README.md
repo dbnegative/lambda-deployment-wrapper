@@ -7,6 +7,7 @@ Generic script to build, deploy and manage python lambda functions in C.D enviro
   * Virtualenv
   * Boto3
 * Bash
+* (Optional) AWS cli to create necassery infrastructure
 * Functioning AWS config i.e exported AWS_ACCESS_KEY_ID or setup with aws cli.
 
 ##Base Setup
