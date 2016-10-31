@@ -19,9 +19,12 @@ aws s3 mb s3://lambda-myfunction --region eu-west-1
 ```
 * Create a config.json file to host lambda function variables in the config folder.
 
-* Edit the config/build.conf to taste. Read the code for more details
+* Edit the config/build.conf and add 3rd party python libs. Read the code for more details
 
 * Setup the build enviroment
+
+* Edit the lambda_function.py with your functionality
+
 ```
 ./deploy-wrapper.py setup
 ```
