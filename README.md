@@ -1,5 +1,5 @@
 # Lambda Deployment Wrapper
-Generic script to build, deploy and manage python lambda functions. Function details can be set in conf directory. 
+Generic script to build, deploy and manage python lambda functions in C.D enviroment. Function details can be set in conf directory. 
 
 ##Requirements
 * Python 2.7 +
